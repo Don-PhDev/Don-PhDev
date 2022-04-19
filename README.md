@@ -37,6 +37,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=don-phdev&theme=react-dark"/>
 </div>
 
+## Watch my contribution graph get eaten by a snake 🐍
+![snake gif](https://github.com/Don-PhDev/Don-PhDev/blob/output/github-contribution-grid-snake.svg)
+
 ------
 
 Credit: [Don-PhDev](https://github.com/Don-PhDev)
