@@ -34,13 +34,6 @@
 </p>
 
 
-## Watch my contribution graph being eaten by a snake🐍
-
-<p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
 -----
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Don-PhDev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -50,3 +43,11 @@
   <br>
   <br>
  </p>
+
+
+## Watch my contribution graph being eaten by a snake🐍
+
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
