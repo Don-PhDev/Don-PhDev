@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=don-phdev&label=Profile%20views&color=0e75b6&style=flat" alt="don-phdev" /> </p>
 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="300"/>
+</div>
 
 ## About me
 <p>I'm a Tech Enthusiast and a passionate Software Engineer</p>
@@ -16,6 +18,8 @@
 - 📫 How to reach me **forrest@philippinedev.com**
 
 ## Languages and tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 <p align="left">
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /> </a>
