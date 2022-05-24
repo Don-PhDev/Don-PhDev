@@ -4,7 +4,7 @@
 
 ## About me
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="87%" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="70%" />
 
 <p>I'm a Tech Enthusiast and a passionate Software Engineer</p>
 
