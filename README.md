@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **forrest@philippinedev.com**
 
-## Languages and tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" height="40" >
+## Languages and tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" >
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
