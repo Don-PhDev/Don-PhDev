@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **forrest@philippinedev.com**
 
-## Languages and tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" >
+## Languages and tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" >
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
@@ -48,7 +48,7 @@
 <a href="https://twitter.com/donforrest_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donforrest_" height="30" width="40" /></a>
 </p>
 
-## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
