@@ -54,7 +54,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=don-phdev&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducreations&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=don-phdev&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
