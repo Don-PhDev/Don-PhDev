@@ -4,7 +4,7 @@
 
 ## About me
 
-<p>I'm a Tech Enthusiast and a passionate Software Engineer</p>
+<p>Tech Enthusiast and a Software Engineer</p>
 
 - 🔭 I’m currently working on [Ekklesia Church](https://ekklesia.philippinedev.com/)
 
